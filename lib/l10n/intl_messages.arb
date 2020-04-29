@@ -1,0 +1,39 @@
+{
+  "@@last_modified": "2020-04-29T02:32:41.984166",
+  "title": "Hello world App",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Hello",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseFruit": "Choose Fruit",
+  "@chooseFruit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "apple": "Apple",
+  "@apple": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "banana": "Banana",
+  "@banana": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pineapple": "Pineapple",
+  "@pineapple": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mango": "Mango",
+  "@mango": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

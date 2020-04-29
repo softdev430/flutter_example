@@ -1,0 +1,19 @@
+{
+  "@@last_modified": "2020-04-29T00:36:20.819850",
+  "title": "nihao",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "nihao",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseFruit": "Choose Fruit",
+  "@chooseFruit": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
